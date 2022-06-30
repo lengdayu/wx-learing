@@ -1,0 +1,6 @@
+/**index.wxss**/
+.title {
+  color: red;
+  text-align: center;
+  font-size: 40rpx;
+}
